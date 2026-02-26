@@ -1,0 +1,8 @@
+{
+  "name": "postspark-renderer",
+  "version": "11.0.0",
+  "description": "PostSpark client-side renderer bundle",
+  "main": "renderer-bundle.js",
+  "files": ["renderer-bundle.js"],
+  "license": "MIT"
+}
